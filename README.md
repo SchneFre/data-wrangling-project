@@ -13,3 +13,4 @@ https://www.kaggle.com/datasets/ayeshasiddiqa123/coffee-dataset
 
 H₀: There is no relationship between the price in the shop and the cocoa Commodity price.
 H₁: There is a significant relationship between price  in the shop and the cocoa Commodity price.
+![alt text](image.png)
